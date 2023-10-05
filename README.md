@@ -1,16 +1,16 @@
-# busca_cep
+# Busca de cep
 
-A new Flutter project.
+Projeto de estudo a acessar api's em flutter 
 
-## Getting Started
+## Introdução
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para um aplicativo Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para você começar, se este é o seu primeiro projeto Flutter :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Escreva seu primeiro aplicativo Flutter] (https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: amostras úteis de vibração] (https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda para começar o desenvolvimento do Flutter, consulte o
+[documentação on-line] (https://docs.flutter.dev/), que oferece tutoriais
+amostras, orientação sobre desenvolvimento móvel e uma referência completa à API.
